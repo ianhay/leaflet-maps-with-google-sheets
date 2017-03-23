@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "PERIMETER": "12.221 km", "ENCLOSED_AREA": "9.298 sq km" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 115.004301, -33.708183 ], [ 115.021851, -33.695900 ], [ 115.048271, -33.720529 ], [ 115.023527, -33.735877 ], [ 115.012769, -33.723975 ], [ 115.004301, -33.708183 ] ] ] } }
+,
+{ "type": "Feature", "properties": { "PERIMETER": "15.735 km", "ENCLOSED_AREA": "13.844 sq km" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 115.048400, -33.693129 ], [ 115.083151, -33.664541 ], [ 115.102843, -33.707709 ], [ 115.090012, -33.715759 ], [ 115.048400, -33.693129 ] ] ] } }
+
+]
+}
